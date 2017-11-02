@@ -1,4 +1,4 @@
-class nakacli < Formula
+class Nakacli < Formula
   desc "CLI Client for Nakadi"
   homepage "https://github.com/amrhassan/nakacli"
   url "https://github.com/amrhassan/nakacli/releases/download/0.0.0/nakacli-0.0.0-x86_64-apple-darwin.tar.bz2"
