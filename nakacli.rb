@@ -1,8 +1,8 @@
 class Nakacli < Formula
   desc "CLI Client for Nakadi"
   homepage "https://github.com/amrhassan/nakacli"
-  url "https://github.com/amrhassan/nakacli/releases/download/0.3.1/nakacli-0.3.1-x86_64-apple-darwin.tar.bz2"
-  sha256 "d1f90a0ea93fa17480902c82c3a9b244d0dccb9777e16750ee567ba5dc82fe7f"
+  url "https://github.com/amrhassan/nakacli/releases/download/0.4.0/nakacli-0.4.0-x86_64-apple-darwin.tar.bz2"
+  sha256 "d202bcece813567c38a67407d2eba5a743fced21c0593584c6114c9c6fe4dd68"
 
   bottle :unneeded
 
